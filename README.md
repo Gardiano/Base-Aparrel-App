@@ -3,4 +3,6 @@ Landing page | e-commerce
 
 
 
-Landing-page mobile-first, responsiva, criada com react js
+mobile-first, responsiva, criada com react js
+
+
