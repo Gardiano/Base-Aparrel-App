@@ -6,7 +6,7 @@ Desktop:
 
 
 
-Mobile: ![bamobile1](https://user-images.githubusercontent.com/46694429/92824535-ec211a80-f3a4-11ea-93f2-502f9e988d13.png) ![bamobile2](https://user-images.githubusercontent.com/46694429/92824527-ea575700-f3a4-11ea-855b-8a43ee036f34.png)
+Mobile: ![mobile1](https://user-images.githubusercontent.com/46694429/95933827-d89f1000-0da5-11eb-96d8-ec21e84e2246.png)![mobile2](https://user-images.githubusercontent.com/46694429/95933843-ddfc5a80-0da5-11eb-8c63-5495823325ce.png)
 
 
 
